@@ -9,7 +9,7 @@ const Footer = () => {
         </p>
         <div className="footer-links">
           <a
-            href="https://github.com"
+            href="https://github.com/boydje23"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link"
@@ -17,7 +17,7 @@ const Footer = () => {
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/jasoneboyd/"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link"

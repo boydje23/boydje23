@@ -14,7 +14,7 @@ const Home = () => {
       id: 'school',
       title: 'Education',
       icon: '🎓',
-      description: 'Computer Science student passionate about learning and growth',
+      description: 'Double Major passonate about learning and growth',
       image: `${process.env.PUBLIC_URL}/images/school.jpg`,
       position: 'top',
     },
@@ -30,7 +30,7 @@ const Home = () => {
       id: 'projects',
       title: 'Projects',
       icon: '🚀',
-      description: 'Creating web applications and exploring new technologies',
+      description: 'Creating predictive models, web applications, and games to be as well rounded as possible',
       image: `${process.env.PUBLIC_URL}/images/projects.jpg`,
       position: 'right',
     },
@@ -38,7 +38,7 @@ const Home = () => {
       id: 'interests',
       title: 'Interests',
       icon: '✨',
-      description: 'Design, music, gaming, and continuous self-improvement',
+      description: 'Design, music, and the gym of course',
       image: `${process.env.PUBLIC_URL}/images/interests.jpg`,
       position: 'bottom',
     },
@@ -66,12 +66,12 @@ const Home = () => {
           </h1>
           
           <p className="hero-tagline">
-            Computer Science Student & Web Design Enthusiast
+            Computer Science Student & Psycholgy Student
           </p>
           
           <p className="hero-description">
-            Passionate about crafting clean, intuitive, and meaningful digital experiences.
-            I believe great design is invisible — it just works.
+          I’m a Full-Stack Developer interested in the intersection of Computer Science and Psychology, 
+          focused on personalized education for students with autism.
           </p>
           
           <div className="hero-cta">
@@ -174,7 +174,7 @@ const Home = () => {
           <div className={`intro-card scale-in stagger-2 ${introAnim.isVisible ? 'visible' : ''}`}>
             <div className="intro-icon">💻</div>
             <h3>Development</h3>
-            <p>Building responsive and performant web applications</p>
+            <p>Building learning and predictive algorithms on various types of data</p>
           </div>
           <div className={`intro-card scale-in stagger-3 ${introAnim.isVisible ? 'visible' : ''}`}>
             <div className="intro-icon">🚀</div>
