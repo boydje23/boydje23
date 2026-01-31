@@ -519,10 +519,12 @@
   border-radius: var(--radius-lg);
   padding: var(--spacing-lg);
   transition: border-color var(--transition-normal);
+  margin-bottom: var(--spacing-md);
 }
 
 .education-card:hover {
   border-color: var(--color-accent);
+  transform: translateY(-5px);
 }
 
 .education-header {

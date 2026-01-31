@@ -99,6 +99,18 @@ const About = () => {
             and hackathons.
           </p>
         </div>
+        <div className={`education-card fade-in-right stagger-1 ${eduAnim.isVisible ? 'visible' : ''}`}>
+          <div className="education-header">
+            <h3 className="education-degree">Bachelor of Science in Computer Science</h3>
+            <span className="education-year">2022 - Present</span>
+          </div>
+          <p className="education-school">University Name</p>
+          <p className="education-details">
+            Focusing on software engineering, web development, and user experience design.
+            Maintaining a strong academic record while actively participating in coding clubs
+            and hackathons.
+          </p>
+        </div>
       </section>
     </main>
   );

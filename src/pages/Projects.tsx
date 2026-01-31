@@ -7,33 +7,33 @@ const Projects = () => {
 
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'A full-stack e-commerce application with user authentication, product management, and secure checkout functionality. Built with modern web technologies for optimal performance.',
-      tags: ['React', 'Node.js', 'PostgreSQL', 'Stripe'],
-      link: 'https://github.com',
+      title: 'Spotify Network Analysis',
+      description: 'Analyzes global music patterns by examining Spotify\'s Top 200 charts from five regions—Japan, the United States, Nigeria, Denmark, and Brazil—during the week of November 6. By constructing networks of songs linked through shared artists, I explore how musical collaborations and cross-regional popularity shape the structure of global music charts.',
+      tags: ['Jupyter Notebook', 'Numpy', 'Pandas', 'Matplotlib', 'NetworkX'],
+      link: 'https://github.com/boydje23/Spotify-Network-Analysis',
     },
     {
-      title: 'Task Management App',
-      description: 'A collaborative task management tool featuring real-time updates, drag-and-drop functionality, and team workspaces. Designed for productivity and ease of use.',
-      tags: ['TypeScript', 'Next.js', 'MongoDB', 'Socket.io'],
-      link: 'https://github.com',
+      title: 'Baseball Statistical Analysis and Salary Predictor',
+      description: 'Uses MLB hitting statistics from 2020-2024 to predict player salaries in the 2025 season through linear regression, KNN regression, and random forest algorithms. The analysis provides practical value to MLB franchises by modeling expected player earnings and revealing which performance factors contribute most significantly to salary determination.',
+      tags: ['Jupyter Notebook', 'Pandas', 'Numpy', 'sklearn', 'Matplotlib'],
+      link: 'https://github.com/boydje23/Baseball-Statistical-Analysis-and-Salary-Predictor',
     },
     {
-      title: 'Weather Dashboard',
-      description: 'A responsive weather application that displays current conditions and forecasts using geolocation and external APIs. Features clean data visualization.',
-      tags: ['React', 'REST API', 'Chart.js', 'CSS'],
-      link: 'https://github.com',
+      title: 'Wordle',
+      description: 'This customized Wordle game lets players switch between multiple languages and upload their own word lists for a personalized puzzle experience. By allowing users to create custom word files, the game transforms the classic Wordle format into a flexible learning tool or entertainment platform tailored to individual preferences.',
+      tags: ['Java', 'HTML', 'CSS'],
+      link: 'https://github.com/boydje23/Wordle',
     },
     {
       title: 'Portfolio Website',
       description: 'A personal portfolio showcasing my work and skills. Built with React and TypeScript, featuring a clean monochromatic design and smooth interactions.',
-      tags: ['React', 'TypeScript', 'CSS'],
+      tags: ['React', 'TypeScript', 'CSS', 'HTML'],
       link: 'https://github.com',
     },
     {
-      title: 'Blog Platform',
+      title: 'Health App',
       description: 'A minimalist blog platform with markdown support, syntax highlighting, and a custom CMS. Optimized for readability and fast loading times.',
-      tags: ['Next.js', 'MDX', 'Tailwind', 'Vercel'],
+      tags: ['Swift'],
       link: 'https://github.com',
     },
     {
