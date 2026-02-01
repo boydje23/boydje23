@@ -70,7 +70,7 @@ const Home = () => {
           </p>
           
           <p className="hero-description">
-          I’m a Full-Stack Developer interested in the intersection of Computer Science and Psychology, 
+          I'm a Full-Stack Developer interested in the intersection of Computer Science and Psychology, 
           focused on personalized education for students with autism.
           </p>
           
@@ -179,7 +179,7 @@ const Home = () => {
           <div className={`intro-card scale-in stagger-3 ${introAnim.isVisible ? 'visible' : ''}`}>
             <div className="intro-icon">🚀</div>
             <h3>Problem Solving</h3>
-            <p>Turning complex challenges into elegant solutions</p>
+            <p>Turning challenges into elegant solutions</p>
           </div>
         </div>
       </section>
