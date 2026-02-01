@@ -28,20 +28,15 @@ const Projects = () => {
       title: 'Portfolio Website',
       description: 'A personal portfolio showcasing my work and skills. Built with React and TypeScript, featuring a clean monochromatic design and smooth interactions.',
       tags: ['React', 'TypeScript', 'CSS', 'HTML'],
-      link: 'https://github.com',
+      link: 'https://github.com/boydje23/boydje23',
     },
     {
       title: 'Health App',
       description: 'A minimalist blog platform with markdown support, syntax highlighting, and a custom CMS. Optimized for readability and fast loading times.',
       tags: ['Swift'],
-      link: 'https://github.com',
+      link: 'https://https://github.com/boydje23/HealthApp.com',
     },
-    {
-      title: 'Algorithm Visualizer',
-      description: 'An interactive tool for visualizing sorting and pathfinding algorithms. Educational project designed to help understand complex algorithms.',
-      tags: ['JavaScript', 'Canvas API', 'Algorithms'],
-      link: 'https://github.com',
-    },
+    
   ];
 
   return (
