@@ -7,7 +7,7 @@ const Projects = () => {
 
   const projects = [
     {
-      title: 'y Network Analysis',
+      title: 'Spotify Network Analysis',
       description: 'Analyzes global music patterns by examining Spotify\'s Top 200 charts from five regions—Japan, the United States, Nigeria, Denmark, and Brazil—during the week of November 6. By constructing networks of songs linked through shared artists, I explore how musical collaborations and cross-regional popularity shape the structure of global music charts.',
       tags: ['Jupyter Notebook', 'Numpy', 'Pandas', 'Matplotlib', 'NetworkX'],
       link: 'https://github.com/boydje23/Spotify-Network-Analysis',
