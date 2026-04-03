@@ -56,7 +56,7 @@ const Contact = () => {
               <span className="contact-icon">💼</span>
               <div>
                 <h3>LinkedIn</h3>
-                <a href="linkedin.com/in/jasoneboyd" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/jasoneboyd/" target="_blank" rel="noopener noreferrer">
                   linkedin.com/in/jasoneboyd
                 </a>
               </div>
@@ -65,7 +65,7 @@ const Contact = () => {
               <span className="contact-icon">🐙</span>
               <div>
                 <h3>GitHub</h3>
-                <a href="github.com/boydje23" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/boydje23" target="_blank" rel="noopener noreferrer">
                   github.com/boydje23
                 </a>
               </div>
