@@ -23,7 +23,7 @@ const Home = () => {
       title: 'Experience',
       icon: '💼',
       description: 'Building real-world skills through projects and research',
-      image: `${process.env.PUBLIC_URL}/images/IMG_9844 Small.jpg`,
+      image: `${process.env.PUBLIC_URL}/images/experience.jpg`,
       position: 'left',
     },
     {
