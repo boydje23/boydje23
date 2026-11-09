@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">I'm Jason Boyd from NYC Manhattan<br><br>- 🔭 I’m working as a full time student, but always working on projects<br>- 📚 I'm currently working on my personal portfolio website which you can see in my Github (labeled my username :) <br>- ⚡ In my free time I go to the gym</p>
+<p align="left">I'm Jason Boyd from NYC Manhattan<br><br>- 🔭 I’m a full time student, but trying to work on projects in my free time<br>- 📚 I'm currently working on my personal portfolio website which you can see in my Github (labeled my username :) <br>- ⚡ Actively training for a half marathon! </p>
 
 ###
 
