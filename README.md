@@ -99,8 +99,10 @@
 </div>
 
 <div align="left">
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" height="40" alt="docker logo> 
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg"
+    height="40" alt="AWS logo" style="margin-left: -5px;"
+  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
